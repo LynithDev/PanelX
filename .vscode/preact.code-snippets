@@ -1,0 +1,24 @@
+{
+	"Preact Template": {
+        "scope": "typescriptreact",
+        "prefix": "preact",
+        "description": "Preact Template",
+        "body": [
+            "import { Component } from 'preact';",
+            "",
+            "type $1Props = {",
+            "    $2",
+            "}",
+            "",
+            "export default class $1 extends Component<$1Props> {",
+            "    render(props?: $1Props) {",
+            "        return (",
+            "            $0",
+            "        );",
+            "    }",
+            "}",
+            ""
+        ]
+
+    }
+}
