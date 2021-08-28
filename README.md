@@ -1,5 +1,5 @@
 # PanelX
-Web Control Panel built with Preact
+Web Control Panel built with Preact (Not Done)
 
 ## Setup
 1. Make sure you have [Yarn](npmjs.com/package/yarn) installed
