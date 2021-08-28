@@ -2,7 +2,7 @@
 Web Control Panel built with Preact (Not Done)
 
 ## Setup
-1. Make sure you have [Yarn](npmjs.com/package/yarn) installed
+1. Make sure you have [Yarn](npmjs.com/package/yarn) installed `npm i yarn -g`
 2. Download / Clone the project
 3. Open the project in your editor and open the terminal
 4. Run `yarn` and wait for it to finish
